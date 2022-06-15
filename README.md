@@ -33,4 +33,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Pokemon Mystery Dungeon: Explorers of Time
 10. MARIO ODYSSEY
 11. ROLL of the DEAD
+12. LOL
 
